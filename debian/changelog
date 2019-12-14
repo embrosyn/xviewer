@@ -1,3 +1,9 @@
+xviewer (2.2.1-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sat, 14 Dec 2019 10:55:20 +0100
+
 xviewer (2.2.1) tina; urgency=medium
 
   * l10n: Update translations
